@@ -7,15 +7,15 @@
 		<type>module</type>
 		<version>1.1</version>
 		<client>site</client>
-		<infourl title="MOD_THUMBNAIL_MINI_CAROUSEL">https://github.com/alvinalvin/thumbnail_mini_carousel</infourl>
+		<infourl title="MOD_THUMBNAIL_MINI_CAROUSEL">https://github.com/alvinphp/thumbnail_mini_carousel</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/alvinalvin/thumbnail_mini_carousel/archive/refs/heads/main.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/alvinphp/plg_preload_Ags/archive/refs/heads/main.zip</downloadurl>
 		</downloads>
         <tags>
 			<tag>stable</tag>
 		</tags>
         <maintainer>Alvin Gil Saldaña</maintainer>
-        <maintainerurl>https://github.com/alvinalvin</maintainerurl>
+        <maintainerurl>https://github.com/alvinphp</maintainerurl>
 		<targetplatform name="joomla" version="(5\.(0|1|2|3|4|5))"/>
 	</update>
 </updates>
