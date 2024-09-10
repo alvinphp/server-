@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>THUMBNAIL MINI CAROUSEL</name>
+		<description>MOD_THUMBNAIL_MINI_CAROUSEL</description>
+		<element>MOD_THUMBNAIL_MINI_CAROUSEL</element>
+		<type>module</type>
+		<version>1.1</version>
+		<client>site</client>
+		<infourl title="MOD_THUMBNAIL_MINI_CAROUSEL">https://github.com/alvinalvin/thumbnail_mini_carousel</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/alvinalvin/thumbnail_mini_carousel/archive/refs/heads/main.zip</downloadurl>
+		</downloads>
+        <tags>
+			<tag>stable</tag>
+		</tags>
+        <maintainer>Alvin Gil Saldaña</maintainer>
+        <maintainerurl>https://github.com/alvinalvin</maintainerurl>
+		<targetplatform name="joomla" version="(5\.(0|1|2|3|4|5))"/>
+	</update>
+</updates>
