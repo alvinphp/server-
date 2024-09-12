@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>VIMEOSLIDER</name>
+		<description>Plugin  Joomla 5</description>
+		<element>mod_vimeoslider</element>
+		<type>module</type>
+		<version>1.0.0</version>
+		<client>site</client>
+		<infourl title="VIMEOSLIDER">https://alvinphp.github.io/server-/vimeo.xml</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip"https://github.com/alvinphp/VimeoSlider/archive/refs/heads/main.zip></downloadurl>
+		</downloads>
+        <tags>
+			<tag>stable</tag>
+		</tags>
+        <maintainer>Alvin Gil Saldaña</maintainer>
+        <maintainerurl>https://github.com/alvinphp<maintainerurl>
+		<targetplatform name="joomla" version="(5\.(0|1|2|3|4|5))"/>
+	</update>
+</updates>
